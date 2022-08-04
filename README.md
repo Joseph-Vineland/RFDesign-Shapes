@@ -1,8 +1,8 @@
-# RFDesign-Shapes: Hallucinating proteins of a certain shape without knowing the specific internal structure ahead of time
+# RFDesign-Shapes
 
-I am modifying the RFDesign code to include a loss function that rewards the protein structure fitting in a certain pre-defined space.  This is for designing proteins that form a certain shape without knowing the internal structure ahead of time.
+I am modifying the RFDesign code to include a loss function that rewards the protein structure fitting in a certain pre-defined space.  This is for designing a protein that forms a certain shape without knowing the internal structure ahead of time.
 
-More details [here](https://joseph-vineland.github.io/2022/07/21/Designing-proteins-of-a-certain-shape-without-knowing-the-specific-internal-structure-ahead-of-time.html)
+More details [here.](https://joseph-vineland.github.io/2022/07/21/Designing-proteins-of-a-certain-shape-without-knowing-the-specific-internal-structure-ahead-of-time.html)
 
 # RFDesign: Protein hallucination and inpainting with RoseTTAFold
 Jue Wang (juewang@post.harvard.edu)    
