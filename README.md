@@ -43,7 +43,7 @@ All code and neural network weights are open source under the BSD license. See `
     cd hallucination/weights/rf_Nov05
     wget http://files.ipd.uw.edu/pub/rfdesign/weights/BFF_last.pt
 
-    cd inpainting/weights/
+    cd inpainting/
     mkdir weights
     cd weights
     wget http://files.ipd.uw.edu/pub/rfdesign/weights/BFF_mix_epoch25.pt
