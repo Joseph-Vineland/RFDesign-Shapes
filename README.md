@@ -1,4 +1,4 @@
-# RFDesign-Shapes
+# RFDesign-Shapes: Hallucinating proteins of a certain shape without knowing the specific internal structure ahead of time
 
 I am modifying the RFDesign code to include a loss function that rewards the protein structure fitting in a certain pre-defined space.  This is for designing proteins that form a certain shape without knowing the internal structure ahead of time.
 
